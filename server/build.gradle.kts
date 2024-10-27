@@ -84,7 +84,7 @@ dependencies {
   // For class injection
   api(libs.injector)
 
-  testImplementation(libs.junit)
+  // testImplementation(libs.junit)
 }
 
 tasks {
